@@ -14,13 +14,13 @@
  **Floats** <br/>
  *Floats are used in python to represents numbers.<br/>they can be created directly by entering a number with decimal point.<br/>ex:0.3 and 2.345*
 * print(2+2)<br />
- ``` 4.0 ``` <br/>
+ ``` 4 ``` <br/>
 * print(2+2-1)<br />
-``` 3.0 ``` <br/> 
+``` 3 ``` <br/> 
 **Multiplication** <br/>
 **________________**
 * print(2*(2+1))<br />
-``` 6.0 ``` <br/>
+``` 6 ``` <br/>
 **Division** <br/>
 **_________**
 * print(2/2)<br />
