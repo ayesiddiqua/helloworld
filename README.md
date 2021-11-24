@@ -32,7 +32,7 @@
 * print(2**3)<br />
 ``` 8 ``` <br/>
 * print(9**(1/2))<br />
-``` 3.0 ``` *note: number (1/2) means (√)* <br/>
+``` 3.0 ``` (*note: number (1/2) means (√)*) <br/>
 **Quotient** <br/>
 **__________**
 * print(25//6)<br />
